@@ -187,4 +187,10 @@ h2 {
   display: block;
   object-fit: cover;
 }
+html {
+  overflow-y: scroll;
+}
+.navbar {
+  min-height: 70px;
+}
 
